@@ -1,7 +1,7 @@
 const watermark = require('dynamic-watermark')
 
-const baseInputDir = `images/input/`
-const baseOutputDir = `images/output/`
+const baseInputDir = 'images/input/'
+const baseOutputDir = 'images/output/'
 const baseImage = `${baseInputDir}base-image.png`
 
 const commonOptions = {
